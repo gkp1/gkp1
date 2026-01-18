@@ -4,7 +4,7 @@
 
   # Developer & DevOps Admin
   
-  > **Focus:** Scaling self-hosted infrastructure (Coolify/LGTM), deploying AI Agents (Latest models / MCP integrations / Local LLMs), and engineering high-throughput WhatsApp bots (Go || NodeJS).
+  > **Focus:** Scaling infrastructure of self-hosted apps, metrics and visual realtime reports and dashboards with Grafana/LGTM stack, deploying AI Agents (Latest models / MCP integrations / Local LLMs), and engineering high-throughput WhatsApp bots (Go || NodeJS).
 
   ---
 
