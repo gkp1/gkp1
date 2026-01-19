@@ -4,7 +4,7 @@
 
   # Developer & DevOps Admin
   
-  > **Focus:** Engineering advanced WhatsApp bots (Go || NodeJS), planning, deploying or refactoring of AI Agents (MCP integrations / Latest models / Cost benefit analysis), scaling infrastructure of self-hosted apps, metrics and visual realtime reports and dashboards with Grafana/LGTM stack.
+  > **Focus:** Engineering advanced WhatsApp bots (Go || NodeJS), plan & deploy or refactor AI Agents (MCP integrations / Latest models / Cost benefit analysis), scaling infrastructure of self-hosted apps, metrics and visual realtime reports and dashboards with Grafana/LGTM stack.
 
   ---
 
