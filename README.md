@@ -1,33 +1,36 @@
 <div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=gkp1&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="gkp1" />
 
-  # Developer & DevOps Admin
-  
-  > **Focus:** Engineering advanced WhatsApp bots (Go || NodeJS), plan & deploy AI Agents for specialized workflows (MCP integrations / Latest models / Cost benefit analysis), scaling infrastructure of self-hosted apps, metrics and visual realtime reports and dashboards with Grafana/LGTM stack.
+# Gian P.
 
-  ---
+**I build WhatsApp bots, AI agents and the self-hosted infrastructure they run on.**
 
-  ### 🛠️ Infrastructure & DevOps
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+Backend & DevOps · Brazil · Open to freelance and remote contracts
 
-  ### ⚙️ Backend & Automation
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![n8n](https://img.shields.io/badge/n8n-%23FF652F.svg?style=for-the-badge&logo=n8n&logoColor=white)
-  ![WhatsApp](https://img.shields.io/badge/WhatsApp_Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-  ### 💻 Frontend
-  
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[Email](mailto:gkp.dev.sh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gian-peres-156453162/)
 
 </div>
+
+---
+
+### Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[agent-manager](https://github.com/gkp1/agent-manager)** | Runs any number of AI agents (WhatsApp, Telegram) in isolated Docker containers, managed from one terminal menu | Bash · Docker · Nanobot · LLM APIs |
+| **[n8n-ytdlp](https://github.com/gkp1/n8n-ytdlp)** | Drop-in n8n image with yt-dlp, FFmpeg, Deno, the Python Code node and Execute Command enabled | Docker · n8n · GitHub Actions |
+| **[filebrowser-quantum-dc](https://github.com/gkp1/filebrowser-quantum-dc)** | Ready-to-deploy FileBrowser Quantum setups for plain Docker and Coolify | Docker Compose · Coolify |
+
+<!-- Add each new project here with its live demo link as it ships -->
+
+### What I work on
+
+- **WhatsApp automation**: bots and integrations in Go (whatsmeow) and Node.js (Baileys)
+- **AI agents**: MCP integrations, model selection and cost/benefit analysis for specialized workflows
+- **Self-hosted infrastructure**: Docker, Coolify and Nginx on VPS, from a single app to many
+- **Observability**: real-time dashboards and alerts with Grafana and the LGTM stack
+
+### Stack
+
+- **Infra**: `Linux` `Docker` `Coolify` `Nginx` `Bash` `Grafana`
+- **Backend**: `Go` `Node.js` `Python` `Express` `PostgreSQL` `Redis` `n8n`
+- **Frontend**: `TypeScript` `Svelte` `React`
