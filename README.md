@@ -12,16 +12,6 @@ Backend & DevOps · Brazil · Open to freelance and remote contracts
 
 ---
 
-### Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[agent-manager](https://github.com/gkp1/agent-manager)** | Runs any number of AI agents (WhatsApp, Telegram) in isolated Docker containers, managed from one terminal menu | Bash · Docker · Nanobot · LLM APIs |
-| **[n8n-ytdlp](https://github.com/gkp1/n8n-ytdlp)** | Drop-in n8n image with yt-dlp, FFmpeg, Deno, the Python Code node and Execute Command enabled | Docker · n8n · GitHub Actions |
-| **[filebrowser-quantum-dc](https://github.com/gkp1/filebrowser-quantum-dc)** | Ready-to-deploy FileBrowser Quantum setups for plain Docker and Coolify | Docker Compose · Coolify |
-
-<!-- Add each new project here with its live demo link as it ships -->
-
 ### What I work on
 
 - **WhatsApp automation**: bots and integrations in Go (whatsmeow) and Node.js (Baileys)
