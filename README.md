@@ -2,9 +2,9 @@
 
 # Gian P.
 
-**I build WhatsApp bots, AI agents and the self-hosted infrastructure they run on.**
+**Backend & DevOps engineer: APIs, databases, automation and AI agents, shipped to production.**
 
-Backend & DevOps · Brazil · Open to freelance and remote contracts
+Brazil · Open to freelance and remote contracts
 
 [Email](mailto:gkp.dev.sh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gian-peres-156453162/)
 
@@ -14,10 +14,10 @@ Backend & DevOps · Brazil · Open to freelance and remote contracts
 
 ### What I work on
 
-- **WhatsApp automation**: bots and integrations in Go (whatsmeow) and Node.js (Baileys)
-- **AI agents**: MCP integrations, model selection and cost/benefit analysis for specialized workflows
-- **Self-hosted infrastructure**: Docker, Coolify and Nginx on VPS, from a single app to many
-- **Observability**: real-time dashboards and alerts with Grafana and the LGTM stack
+- **Backend & APIs**: REST APIs in Node.js/TypeScript, PostgreSQL schema design, async messaging and queues
+- **AI agents**: LLM integration into products, MCP, model cost/quality trade-offs
+- **Integrations & automation**: webhooks, OAuth, Google Workspace APIs, n8n, WhatsApp bots
+- **Infra & observability**: Docker, Linux, Nginx and Coolify on self-hosted servers, monitored with Grafana / LGTM
 
 ### Stack
 
